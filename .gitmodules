@@ -1,0 +1,9 @@
+[submodule "src/Rizza/CalendarBundle"]
+	path = src/Rizza/CalendarBundle
+	url = https://github.com/robzienert/CalendarBundle.git
+[submodule "src/Lime/CalendarBundle"]
+	path = src/Lime/CalendarBundle
+	url = https://github.com/LIME-Marketing/LimeCalendarBundle.git
+[submodule "vendor/bundles/FOS/UserBundle"]
+	path = vendor/bundles/FOS/UserBundle
+	url = git://github.com/FriendsOfSymfony/FOSUserBundle.git
